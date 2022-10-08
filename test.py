@@ -1,2 +1,4 @@
 import time
-import timeit
+
+
+print(time.perf_counter())
