@@ -1,2 +1,3 @@
 import time
-print(time.asctime())
+print(time.time_ns())
+
