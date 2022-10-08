@@ -1,4 +1,4 @@
 import time
 
 
-print(time.perf_counter())
+print(time.process_time_ns())
